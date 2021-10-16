@@ -2,4 +2,4 @@
 
 Check out my art work using DrawingPanel
 
-[yoda](darenceT.githumb.com/Art-by-Code/output.png)
+[yoda](https://github.com/darenceT/Art-by-Code/blob/master/output.png)
