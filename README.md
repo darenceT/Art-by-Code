@@ -1,6 +1,6 @@
 # Baby Yoga
 
-Check out my art work using Drawing Panel with Java
+Artwork made 100% by code, using Drawing Panel with Java.
 
 [code](https://github.com/darenceT/Art-by-Code/blob/master/src/prjSkyline/DrawBabyYoda.java)
 
